@@ -1,5 +1,5 @@
 
-#### EJECUTA TODO DES UN ENTORNO VITUAL
+#### EJECUTA TODO DESDE UN ENTORNO VITUAL
 python -m venv venv
 .\venv\Scripts\activate  --Windows 
 source venv/bin/activate -- Linux/Mac.
@@ -49,3 +49,5 @@ Envía una solicitud POST a `http://127.0.0.1:5000/procesar-pedido` con un cuerp
         {"id": "c3", "nombre": "Manzanas", "categoria": "Alimentos", "cantidad": 3}
     ]
 }
+
+
